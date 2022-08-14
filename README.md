@@ -4,7 +4,7 @@ This folder includes my undergrad and graduate coursework and projects, serving 
 
 ## Coursework
 
-Mainly focus on the statistical analysis skills.
+Mainly focus on the statistical analysis skills. I only uploaded some PDF files including some R code. 
 
 
 ## RA and writing samples
