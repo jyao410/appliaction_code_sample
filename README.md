@@ -1,6 +1,6 @@
 # PhD and RA Appliaction: code sample
 
-This folder includes my undergrad and graduate coursework and projects, serving as a reference for those who want to check. Only a small part of the codes are posted. 
+This folder includes part of my undergrad and graduate coursework and projects, serving as a reference for those who want to check.  
 
 ## Coursework
 
